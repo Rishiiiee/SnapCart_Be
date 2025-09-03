@@ -59,8 +59,8 @@ module.exports.Login = async (req, res) => {
 
     res.cookie("AccessToken", token, {
       httpOnly: true,
-      secure: false,      
-      sameSite: "lax",    
+      secure: true,      
+      sameSite: "none",    
     });
 
     res.status(200).json({
@@ -79,8 +79,8 @@ module.exports.Logout = async (req, res) => {
   try {
     res.clearCookie("AccessToken", {
       httpOnly: true,
-      secure: false,
-      sameSite: "lax"
+      secure: true,
+      sameSite: "none"
     });
     res.status(200).json({ message: "Logout successful!" });
   } catch (error) {
