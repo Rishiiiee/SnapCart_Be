@@ -1,0 +1,7 @@
+name,description,price,image,category,isPremiumProduct
+Nike Air Zoom Pegasus,"Lightweight running shoes built for speed and comfort.",4999,https://images.unsplash.com/photo-1542291026-7eec264c27ff,Footwear,false
+Adidas Ultraboost,"Responsive cushioning with stylish design.",7999,https://images.unsplash.com/photo-1600180758895-7a4c39e4c1f1,Footwear,true
+Levi's Denim Jacket,"Classic denim jacket with modern fit.",3499,https://images.unsplash.com/photo-1512436991641-6745cdb1723f,Fashion,false
+iPhone 15 Pro,"Latest Apple flagship with A17 chip.",129999,https://images.unsplash.com/photo-1695048131530-7de79e927651,Electronics,true
+Samsung Galaxy S24,"Premium Android smartphone with AMOLED display.",89999,https://images.unsplash.com/photo-1523475496153-3d6cc3000da1,Electronics,true
+Sony WH-1000XM5,"Noise cancelling wireless headphones.",29999,https://images.unsplash.com/photo-1585386959984-a4155224a1f7,Electronics,true

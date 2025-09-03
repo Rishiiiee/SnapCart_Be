@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+
+# Logs
+logs
+*.log
+
+# Build
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.development
+.env.production
+
+# Misc
+.DS_Store
+*.swp

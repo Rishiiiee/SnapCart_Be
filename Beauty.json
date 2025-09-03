@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Vitamin C Serum",
+    "description": "Anti-aging facial serum with vitamin C to brighten skin and reduce dark spots.",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
+    "category": "Beauty",
+    "isPremiumProduct": true
+  },
+  {
+    "name": "Hyaluronic Acid Moisturizer",
+    "description": "Deep hydrating face cream with hyaluronic acid for plump, glowing skin.",
+    "price": 1899,
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Sunscreen SPF 50",
+    "description": "Broad spectrum sunscreen with SPF 50 protection, non-greasy and water resistant.",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Retinol Night Cream",
+    "description": "Anti-wrinkle night cream with retinol to repair skin while you sleep.",
+    "price": 2999,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
+    "category": "Beauty",
+    "isPremiumProduct": true
+  },
+  {
+    "name": "Matte Lipstick Set",
+    "description": "Set of 6 long-lasting matte lipsticks in various shades, cruelty-free.",
+    "price": 1799,
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Charcoal Face Mask",
+    "description": "Deep cleansing charcoal mask to remove impurities and unclog pores.",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Niacinamide Serum",
+    "description": "Oil-control serum with niacinamide to minimize pores and reduce redness.",
+    "price": 2199,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
+    "category": "Beauty",
+    "isPremiumProduct": true
+  },
+  {
+    "name": "Mineral Foundation Powder",
+    "description": "Natural mineral powder foundation for buildable coverage, suitable for sensitive skin.",
+    "price": 1599,
+    "image": "https://images.unsplash.com/photo-1595877244574-e90ce41ce089",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Eye Cream with Caffeine",
+    "description": "Depuffing eye cream with caffeine to reduce dark circles and puffiness.",
+    "price": 1999,
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Hair Growth Serum",
+    "description": "Scalp treatment serum with biotin and peptides to promote hair growth.",
+    "price": 2799,
+    "image": "https://images.unsplash.com/photo-1590420485135-7a3438a5aecd",
+    "category": "Beauty",
+    "isPremiumProduct": true
+  },
+  {
+    "name": "Makeup Brush Set",
+    "description": "12-piece professional makeup brush set with vegan bristles and leather case.",
+    "price": 2299,
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "CBD Face Oil",
+    "description": "Luxury facial oil with CBD to calm inflammation and hydrate skin.",
+    "price": 3499,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
+    "category": "Beauty",
+    "isPremiumProduct": true
+  },
+  {
+    "name": "Acne Treatment Kit",
+    "description": "Complete acne treatment system with cleanser, toner, and spot treatment.",
+    "price": 2599,
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Setting Spray",
+    "description": "Long-lasting makeup setting spray that keeps makeup fresh for 16 hours.",
+    "price": 1199,
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Body Lotion with Shea Butter",
+    "description": "Rich body lotion with shea butter and coconut oil for 24-hour hydration.",
+    "price": 1399,
+    "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Facial Cleansing Device",
+    "description": "Sonic facial cleansing brush with multiple speed settings and brush heads.",
+    "price": 3999,
+    "image": "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65",
+    "category": "Beauty",
+    "isPremiumProduct": true
+  },
+  {
+    "name": "BB Cream with SPF",
+    "description": "All-in-one beauty balm with SPF 30, light coverage, and skincare benefits.",
+    "price": 1699,
+    "image": "https://images.unsplash.com/photo-1595877244574-e90ce41ce089",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Hair Repair Mask",
+    "description": "Deep conditioning hair mask with argan oil to repair damaged hair.",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1590420485135-7a3438a5aecd",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Mascara Volume Boost",
+    "description": "Volumizing mascara that lifts and curls lashes without clumping.",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  },
+  {
+    "name": "Anti-Dandruff Shampoo",
+    "description": "Medicated shampoo with ketoconazole to treat dandruff and soothe scalp.",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1590420485135-7a3438a5aecd",
+    "category": "Beauty",
+    "isPremiumProduct": false
+  }
+]
