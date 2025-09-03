@@ -57,11 +57,10 @@ module.exports.Login = async (req, res) => {
       { expiresIn: "1d" }
     );
 
-    // ✅ Proper cookie setup
     res.cookie("AccessToken", token, {
       httpOnly: true,
-      secure: false,      // keep false in dev, set true in production with https
-      sameSite: "lax",    // "none" if frontend runs on different domain
+      secure: false,      
+      sameSite: "lax",    
     });
 
     res.status(200).json({

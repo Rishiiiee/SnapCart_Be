@@ -15,9 +15,10 @@ const app = express();
 
 
 app.use(cors({
-    origin: 'http://localhost:5173', 
-    credentials: true
-}))
+  origin:  "https://snap-cart-fe.vercel.app/",
+  credentials: true
+}));
+
 app.use(cookieParser());
 
 app.use(express.json());
