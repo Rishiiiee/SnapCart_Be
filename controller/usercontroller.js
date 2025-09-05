@@ -60,7 +60,8 @@ module.exports.Login = async (req, res) => {
     res.cookie("AccessToken", token, {
       httpOnly: true,
       secure: true,      
-      sameSite: "none",    
+      sameSite: "none", 
+      domain: ".onrender.com",
     });
 
     res.status(200).json({
@@ -80,7 +81,8 @@ module.exports.Logout = async (req, res) => {
     res.clearCookie("AccessToken", {
       httpOnly: true,
       secure: true,
-      sameSite: "none"
+      sameSite: "none",
+      domain: ".onrender.com",
     });
     res.status(200).json({ message: "Logout successful!" });
   } catch (error) {
