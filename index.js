@@ -15,7 +15,7 @@ const app = express();
 
 
 app.use(cors({
-  origin: "https://snap-cart-fe.vercel.app", 
+  origin: ["https://snap-cart-fe.vercel.app"], 
   credentials: true
 }));
 
