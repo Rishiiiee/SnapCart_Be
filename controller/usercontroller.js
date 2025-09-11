@@ -61,7 +61,6 @@ module.exports.Login = async (req, res) => {
       httpOnly: true,
       secure: true,      
       sameSite: "none", 
-      domain: ".onrender.com",
     });
 
     res.status(200).json({
@@ -82,7 +81,6 @@ module.exports.Logout = async (req, res) => {
       httpOnly: true,
       secure: true,
       sameSite: "none",
-      domain: ".onrender.com",
     });
     res.status(200).json({ message: "Logout successful!" });
   } catch (error) {
